@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpModuleStudy", "HttpModuleStudy\HttpModuleStudy.csproj", "{0C7732D3-AA15-4B38-B06C-A02C31ADCEEB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpModule", "HttpModule\HttpModule.csproj", "{821DE195-BFC5-476F-9A54-83FC6B0A7DD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{0C7732D3-AA15-4B38-B06C-A02C31ADCEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C7732D3-AA15-4B38-B06C-A02C31ADCEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C7732D3-AA15-4B38-B06C-A02C31ADCEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{821DE195-BFC5-476F-9A54-83FC6B0A7DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{821DE195-BFC5-476F-9A54-83FC6B0A7DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{821DE195-BFC5-476F-9A54-83FC6B0A7DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{821DE195-BFC5-476F-9A54-83FC6B0A7DD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

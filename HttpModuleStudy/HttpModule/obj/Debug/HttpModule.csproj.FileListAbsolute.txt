@@ -1,0 +1,5 @@
+G:\bdqlaccp\StudeyDemo\StudyProject\HttpModuleStudy\HttpModule\bin\Debug\HttpModule.dll
+G:\bdqlaccp\StudeyDemo\StudyProject\HttpModuleStudy\HttpModule\bin\Debug\HttpModule.pdb
+G:\bdqlaccp\StudeyDemo\StudyProject\HttpModuleStudy\HttpModule\obj\Debug\ResolveAssemblyReference.cache
+G:\bdqlaccp\StudeyDemo\StudyProject\HttpModuleStudy\HttpModule\obj\Debug\HttpModule.dll
+G:\bdqlaccp\StudeyDemo\StudyProject\HttpModuleStudy\HttpModule\obj\Debug\HttpModule.pdb
